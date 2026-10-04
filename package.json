@@ -1,0 +1,15 @@
+{
+  "name": "kettlewren-coffee-email",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Modular HTML email newsletter system for Kettlewren Coffee Roasters (fictional brand).",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "screenshots": "node scripts/screenshots.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

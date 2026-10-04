@@ -1,0 +1,7 @@
+{
+  "output": "master.html",
+  "title": "Kettlewren Coffee Roasters",
+  "preheader": "Roasted to order this week: two single origins, a note from the roastery and a free Saturday cupping.",
+  "issue": "Issue 36, September 2026",
+  "blocks": ["01-header", "02-hero", "03-text", "04-product-cards", "05-feature", "06-testimonial", "07-event-strip", "08-footer"]
+}

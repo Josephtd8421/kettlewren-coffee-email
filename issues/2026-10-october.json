@@ -1,0 +1,48 @@
+{
+  "output": "newsletter-october.html",
+  "title": "The Guji is back, plus a free cupping on October 18",
+  "preheader": "Our most-requested Ethiopian coffee returns this week, with a new decaf and a free Saturday cupping.",
+  "issue": "Issue 37, October 2026",
+  "blocks": ["01-header", "02-hero", "03-text", "04-product-cards", "05-feature", "06-testimonial", "07-event-strip", "08-footer"],
+  "edits": {
+    "02-hero": [
+      ["Roasted on Monday. In your cup by Thursday.", "The Guji is back, and brighter than last year"],
+      ["Every bag is roasted to order in small batches, then rested for two days so it tastes its best the morning it arrives.", "Our most-requested coffee returns from the Hambela washing station this week. Expect bergamot, ripe peach and a finish like jasmine tea. Last year it sold out in nine days."],
+      ["https://kettlewren.example/shop/fresh", "https://kettlewren.example/shop/guji-washed"],
+      ["Shop fresh coffee", "Shop the new Guji"]
+    ],
+    "03-text": [
+      ["A note from the roastery", "Notes from the roastery"],
+      ["We buy green coffee from the same twelve farms year after year, and pay well above the market price to do it. That consistency is why your favourite bag tastes the way you remember.", "October is when the roastery smells best. The first containers of the new Ethiopian harvest landed on the 29th, and we&rsquo;ve spent the week dialling in roast profiles on our little test roaster."],
+      ["This month we're roasting two new lots and bringing back an old favourite.", "Below: two coffees for cooler mornings, a brewing tip for cold kitchens, and an invitation to taste with us on the 18th."]
+    ],
+    "04-product-cards": [
+      ["This week's coffees", "Two coffees for cooler mornings"],
+      ["Two single origins, each roasted to bring out what the farm does best.", "One bright, one cosy. Both roasted on Mondays and shipped by Wednesday."],
+      ["Bergamot, white peach, raw honey", "Bergamot, ripe peach, jasmine"],
+      ["huila-honey", "night-owl-decaf"],
+      ["images/bag-colombia.png", "images/bag-decaf.png"],
+      ["Huila Honey coffee bag with a green label", "Night Owl Decaf coffee bag with a navy label"],
+      ["background-color:#DDE6DA;", "background-color:#D6D9E2;"],
+      ["Huila Honey", "Night Owl Decaf"],
+      ["Huila, Colombia", "Caldas, Colombia"],
+      [">Honey<", ">Sugarcane decaf<"],
+      ["Red apple, panela, cocoa nib", "Milk chocolate, almond, orange peel"],
+      ["$19", "$18"]
+    ],
+    "05-feature": [
+      ["Why we roast lighter than most", "The four-minute pour-over"],
+      ["A lighter roast keeps the fruit and florals that make each farm's coffee taste different. Here's what that means for your morning cup.", "Cold kitchens steal heat fast. Warm your dripper and carafe first, use water just off the boil, and finish pouring by the four-minute mark."],
+      ["https://kettlewren.example/journal/roasting-light", "https://kettlewren.example/brew/pour-over"],
+      ["Read our roasting notes", "Read the pour-over guide"]
+    ],
+    "06-testimonial": [
+      ["I've tried a dozen subscriptions. Kettlewren is the only one where I actually look forward to the box arriving.", "Last October&rsquo;s Guji was the best cup of coffee I had all year. I&rsquo;ve had a reminder set for it since spring."],
+      ["Dana R., subscriber since 2021", "Sam K., subscriber since 2023"]
+    ],
+    "07-event-strip": [
+      ["Saturday morning cupping", "Harvest cupping: three Ethiopian lots"],
+      ["Taste six coffees side by side with our roasting team. Free, 20 seats.", "Taste the new Guji next to two lots that didn&rsquo;t make the cut, and tell us which you&rsquo;d pick. Free, 20 seats."]
+    ]
+  }
+}
